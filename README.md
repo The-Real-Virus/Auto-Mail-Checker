@@ -90,9 +90,9 @@ Step 5: After Completing the process now u can run script
 	     (_/                                    \_)
 	 ____________________________________________________
 	 ----------------------------------------------------        
-	            #  Auto Mail Checker
-    	        #  Author : The-Real-Virus
-    	        #  https://github.com/The-Real-Virus
+		#  Auto Mail Checker
+		#  Author : The-Real-Virus
+		#  https://github.com/The-Real-Virus
 	 ____________________________________________________
 	 ----------------------------------------------------
 
